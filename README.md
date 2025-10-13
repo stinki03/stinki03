@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 ### 📊 Most Used Languages:
 <!-- Puedes usar GitHub Readme Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stinki03&layout=compact&theme=radical)
 
 ---
