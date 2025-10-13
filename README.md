@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **stinki03/stinki03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Oussama</h1>
+<h1 align="center">Hi 👋, I'm Stinki03</h1>
 <h3 align="center">Linux enthusiast | Cybersecurity learner | Python tinkerer</h3>
 
 ---
