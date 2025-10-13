@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"  width="40"  />
->
+
 </p>
 
 ---
